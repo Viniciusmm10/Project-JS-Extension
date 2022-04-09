@@ -1,0 +1,26 @@
+body{
+  width: 750px;
+  overflow-x: hidden !important;
+  font-family: 'Nova Square', cursive;
+}
+
+#navbar{
+  background-color: #242423;
+  padding: 7px 0px;
+  box-shadow: 2px 5px 3px grey;
+
+  font-size: large;
+  justify-content: center;
+  text-align: center;
+}
+
+.btn-primary{
+  color: #202b7a !important;
+  background-color: #fff159 !important;
+}
+
+.btn-secondary{
+  color: #FC5E32 !important;
+  background-color: #ffff !important;
+
+}
